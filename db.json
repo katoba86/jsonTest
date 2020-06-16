@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "city": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 8141,
+      "name": "Hamm",
+      "bdl":1,
     }
   ],
   "profile": {
